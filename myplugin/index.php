@@ -11,10 +11,5 @@
 //gfgfdgfdf/
 
 //fgfgdfgdfgdgfdfgfdfdsfsd
-//dalia branch
-<<<<<<< Updated upstream
-//slash dalia 
-=======
-
 //stash
->>>>>>> Stashed changes
+gfhhxxgfgfg
